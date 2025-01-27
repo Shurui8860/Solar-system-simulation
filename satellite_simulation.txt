@@ -1,0 +1,25 @@
+// This txt file is used to search the possible initial x velocity of the satellite.
+
+timestep: 3600
+number of iterations: 7200
+
+name: Sun
+mass: 1.989e30
+initial position: 0,0
+initial velocity: 0,0
+radius: 6.9634e8
+colour: r
+
+name: Earth
+mass: 5.9722e24
+initial position: 1.4966e11,0
+initial velocity: 0,0
+radius: 6.371e6
+colour: c
+
+name: Mars
+mass: 6.4169e23
+initial position: 2.27596e11,0
+initial velocity: 0,0
+radius: 3.3895e6
+colour: m

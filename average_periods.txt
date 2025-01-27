@@ -1,0 +1,51 @@
+// This file is used to show the actual and simulated orbital periods.
+
+The actual orbital period of Mercury is 87.97 days.
+The actual orbital period of Venus is 224.7 days.
+The actual orbital period of Earth in 365.26 days.
+The actual orbital period of Mars is 686.69 days.
+
+The average orbital period of Mercury in this simulation is 87.95405982905983 days.
+The average orbital period of Venus in this simulation is 224.65277777777777 days.
+The average orbital period of Earth in this simulation is 365.4128086419753 days.
+The average orbital period of Mars in this simulation is 685.2430555555555 days.
+The average orbital period of Mercury in this simulation is 87.95405982905983 days.
+The average orbital period of Venus in this simulation is 224.65277777777777 days.
+The average orbital period of Earth in this simulation is 365.4128086419753 days.
+The average orbital period of Mars in this simulation is 685.2430555555555 days.
+The average orbital period of Mercury in this simulation is 87.95405982905983 days.
+The average orbital period of Venus in this simulation is 224.65277777777777 days.
+The average orbital period of Earth in this simulation is 365.4128086419753 days.
+The average orbital period of Mars in this simulation is 685.2430555555555 days.
+The average orbital period of Mercury in this simulation is 87.95405982905983 days.
+The average orbital period of Venus in this simulation is 224.65277777777777 days.
+The average orbital period of Earth in this simulation is 365.4128086419753 days.
+The average orbital period of Mars in this simulation is 685.2430555555555 days.
+The average orbital period of Mercury in this simulation is 87.95405982905983 days.
+The average orbital period of Venus in this simulation is 224.65277777777777 days.
+The average orbital period of Earth in this simulation is 365.4128086419753 days.
+The average orbital period of Mars in this simulation is 685.2430555555555 days.
+The average orbital period of Mercury in this simulation is 87.95405982905983 days.
+The average orbital period of Venus in this simulation is 224.65277777777777 days.
+The average orbital period of Earth in this simulation is 365.4128086419753 days.
+The average orbital period of Mars in this simulation is 685.2430555555555 days.
+The average orbital period of Mercury in this simulation is 87.95405982905983 days.
+The average orbital period of Venus in this simulation is 224.65277777777777 days.
+The average orbital period of Earth in this simulation is 365.4128086419753 days.
+The average orbital period of Mars in this simulation is 685.2430555555555 days.
+The average orbital period of Mercury in this simulation is 87.95405982905983 days.
+The average orbital period of Venus in this simulation is 224.65277777777777 days.
+The average orbital period of Earth in this simulation is 365.4128086419753 days.
+The average orbital period of Mars in this simulation is 685.2430555555555 days.
+The average orbital period of Mercury in this simulation is 87.95405982905983 days.
+The average orbital period of Venus in this simulation is 224.65277777777777 days.
+The average orbital period of Earth in this simulation is 365.4128086419753 days.
+The average orbital period of Mars in this simulation is 685.2430555555555 days.
+The average orbital period of Mercury in this simulation is 87.95405982905983 days.
+The average orbital period of Venus in this simulation is 224.65277777777777 days.
+The average orbital period of Earth in this simulation is 365.4128086419753 days.
+The average orbital period of Mars in this simulation is 685.2430555555555 days.
+The average orbital period of Mercury in this simulation is 87.95405982905983 days.
+The average orbital period of Venus in this simulation is 224.65277777777777 days.
+The average orbital period of Earth in this simulation is 365.4128086419753 days.
+The average orbital period of Mars in this simulation is 685.2430555555555 days.
