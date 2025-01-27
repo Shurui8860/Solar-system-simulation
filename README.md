@@ -8,30 +8,24 @@ This project simulates the motion of celestial bodies in a solar system-like env
 
 ### Python Files
 
-- ``
-
+- **`main.py`**
   - Serves as the central script for the project, orchestrating the execution of the simulation. It integrates the functionality from all other modules, initializes parameters, and displays the simulation results and animations.
 
-- ``
-
+- **`body.py`**
   - Contains the `Body` class, which models celestial objects such as the Sun, Earth, and other planets. The class includes attributes like mass, position, velocity, radius, and color. It also provides methods for updating the state of the celestial body during the simulation.
 
-- ``
-
+- **`dataProvider.py`**
   - Manages the loading and parsing of input data from external files, such as `demo.txt`. This module ensures that simulation parameters and celestial body properties are correctly initialized.
 
-- ``
-
+- **`experiments.py`**
   - Provides a framework for testing and analyzing different simulation scenarios. This file allows users to set up experimental conditions to evaluate how variations in parameters affect orbital dynamics and system behavior.
 
-- ``
-
+- **`simulation.py`**
   - Implements the core simulation logic, including the numerical integration methods used to calculate the trajectories of celestial bodies. This module handles the iterative updates of positions and velocities based on physical laws and initial conditions.
 
 ### Data Files
 
-- ``
-
+- **`average_periods.txt`**
   - Contains a detailed comparison of actual and simulated orbital periods for each celestial body (Mercury, Venus, Earth, Mars). This file serves as a reference to assess the accuracy of the simulation.
   - Example content:
     ```
@@ -39,8 +33,7 @@ This project simulates the motion of celestial bodies in a solar system-like env
     The average orbital period of Mercury in this simulation is 87.95405982905983 days.
     ```
 
-- ``
-
+- **`demo.txt`**
   - Defines the initial setup for the simulation, including global parameters (e.g., timestep, number of iterations) and the properties of each celestial body (e.g., mass, initial position, velocity, radius, and color).
   - Example content:
     ```
@@ -61,14 +54,6 @@ This project simulates the motion of celestial bodies in a solar system-like env
 - **Celestial Animations:** Visualizes the motion of celestial bodies based on their calculated trajectories.
 - **Orbital Period Analysis:** Compares simulated periods with real-world values for validation.
 - **Scalable Parameters:** Easily adjustable parameters (e.g., timestep, number of iterations) for experimentation.
-
-## Requirements
-
-- Python 3.8+
-- Required libraries:
-  - `numpy`
-  - `matplotlib`
-  - Any additional dependencies listed in the `requirements.txt` file (if available).
 
 ## How to Run
 
@@ -98,11 +83,4 @@ This project simulates the motion of celestial bodies in a solar system-like env
 - Implement more advanced numerical integration techniques.
 - Include real-time 3D visualization using libraries like `pythreejs` or `vpython`.
 
-## Credits
-
-Developed by **Sian Shu Wang** and contributors.
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
 
